@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.column {
+  width: 45%;
+}
+
+.column img {
+  width: 100%;
+  height: auto;
+}
